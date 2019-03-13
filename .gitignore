@@ -1,0 +1,4 @@
+# Directories
+.env/**
+.vscode/**
+wls/**
